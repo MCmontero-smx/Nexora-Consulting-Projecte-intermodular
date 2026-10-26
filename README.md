@@ -25,3 +25,9 @@ Ofrecemos los siguientes servicios:
 | Instituto Futuro | Educación | Gestión de usuarios y equipos |
 | Tienda Online Nova | Comercio electrónico | Desarrollo y mantenimiento web |
 | Logística Express | Transporte | Infraestructura de red y servidores |
+
+
+
+
+## Logotipo
+![Captura de status de apache2](Imagenes/imagen1.png)
