@@ -30,4 +30,5 @@ Ofrecemos los siguientes servicios:
 
 
 ## Logotipo
-![Captura de status de apache2](Imagenes/imagen1.png)
+
+![Logotipo](Imagenes/imagen1.png)
