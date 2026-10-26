@@ -15,3 +15,13 @@ Ofrecemos los siguientes servicios:
 - Desarrollo de aplicaciones web.
 - Copias de seguridad.
 - Mantenimiento informático.
+
+## Clientes con los que trabajamos
+
+| Cliente | Sector | Necesidad tecnológica |
+|---------|--------|-----------------------|
+| Clínica Salud+ | Sanidad | Gestión de historiales y copias de seguridad |
+| Hotel Costa Azul | Hostelería | Red Wi-Fi segura y mantenimiento |
+| Instituto Futuro | Educación | Gestión de usuarios y equipos |
+| Tienda Online Nova | Comercio electrónico | Desarrollo y mantenimiento web |
+| Logística Express | Transporte | Infraestructura de red y servidores |
