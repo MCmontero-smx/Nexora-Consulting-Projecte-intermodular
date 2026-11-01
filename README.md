@@ -27,6 +27,20 @@ Ofrecemos los siguientes servicios:
 | Logística Express | Transporte | Infraestructura de red y servidores |
 
 
+## Elementos técnicos
+```
+Servidor: srv-consultoria
+IP: 192.168.1.10
+Red: 192.168.1.0/24
+```
+
+
+## Enlaces de intéres
+[Documentacion de Linux](https://www.linux.org)
+[Documentacion de Microsoft](https://learn.microsoft.com/es-es/docs/)
+[Documentacion de MDN](https://developer.mozilla.org/es/)
+[Documentacion de Python](https://docs.python.org/es/3/)
+
 
 
 ## Logotipo
