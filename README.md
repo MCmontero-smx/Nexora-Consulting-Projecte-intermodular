@@ -36,11 +36,10 @@ Red: 192.168.1.0/24
 
 
 ## Enlaces de intéres
-[Documentacion de Linux](https://www.linux.org)
-[Documentacion de Microsoft](https://learn.microsoft.com/es-es/docs/)
-[Documentacion de MDN](https://developer.mozilla.org/es/)
-[Documentacion de Python](https://docs.python.org/es/3/)
-
+[Documentacion de Linux](https://www.linux.org)<br>
+[Documentacion de Microsoft](https://learn.microsoft.com/es-es/docs/)<br>
+[Documentacion de MDN](https://developer.mozilla.org/es/)<br>
+[Documentacion de Python](https://docs.python.org/es/3/)<br>
 
 
 ## Logotipo
